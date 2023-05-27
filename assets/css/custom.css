@@ -32,3 +32,9 @@
 .overlay h2 {
   color: white !important;
 }
+
+#four {
+  position: relative;
+  top: -10px;
+  left: 0;
+}
